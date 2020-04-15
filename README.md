@@ -30,27 +30,43 @@ Based on the relations between guilds, their members will either help, ignore or
 Player has it's own reputation across guilds.
 
 ### Resolute Ancients
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Resolute%20Ancients.png" width="48" />
+
 Special ability - increased stamina and regeneration
 
 ### Refugees of the Lion
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Refugees%20of%20the%20Lion.png" width="48" />
+
 Special ability - the roar of the lion, chance that enemies will drop their weapons and run away, increased range and melee damage
 
 ### Blackshapers
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Blackshapers.png" width="48" />
+
 Special ability - 50% bonus on melee weapons
 
 ### Fire Maggots
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Fire%20Maggots.png" width="48" />
+
 Special ability - put enemy/object on fire
 
 ### Gang of the Bound
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Gang%20of%20the%20Bound.png" width="48" />
+
 Special ability - drive any vehicle
 
 ### Mighty Jackals
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Mighty%20Jackals.png" width="48" />
+
 Special ability - pickable items are highlighted around character
 
 ### Green Berets
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Green%20Berets.png" width="48" />
+
 Special ability - maximum weapon accuracy, cam carry more weapons at once
 
 ### Uno Solo
+<img src="https://github.com/mka-rainmaker/Team-Rainmakers/blob/master/Assets/Guilds/Uno%20Solo.png" width="48" />
+
 Special ability - attack and armom bonuses when solo
 
 # Shelters
