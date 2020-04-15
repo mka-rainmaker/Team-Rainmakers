@@ -10,7 +10,14 @@ The purpose of this repository is to learn Unity, build all basic mechanics (cha
 
 Must-have point before starting any development is to clearly define plot, game philosophy, objects and etc.
 
-# General requirements
+# Pre-requirements
+
+Free Unity assets
+
+[Blockout](https://assetstore.unity.com/packages/tools/level-design/blockout-100388)
+[Simple FPS Controller](https://assetstore.unity.com/packages/tools/input-management/simple-fps-controller-162291)
+
+# Game features
 - Lowpoly design
 - 1st/3rd person character controller
 - Range/melee weapons
